@@ -1,0 +1,17 @@
+body {
+    background-image: url("black-texture.jpg");
+    /*background-image: url("design.webp");*/
+    background-size: cover;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color:aliceblue;
+    margin: 0;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
